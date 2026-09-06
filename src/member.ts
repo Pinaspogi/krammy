@@ -110,7 +110,7 @@ export const profile = {
         },
         {
             banner: '/assets/revshit.png',
-            url: 'https://revshit.org',
+            url: 'https://revgng.org',
         },
     ] as Affiliate[],
 
